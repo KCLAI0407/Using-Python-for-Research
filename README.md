@@ -23,4 +23,7 @@ Week 5: Statistical Learning
 Overviews linear regression, logistic regression and random forest
 
 
+### [Certificate](https://courses.edx.org/certificates/56cd55e3db7f46d096cf930e307964bc)
+
+
 ## Please, don't fork or copy this repository!
